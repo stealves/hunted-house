@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["../src/style.css"],
-  "sourcesContent": ["html {\n    background-color: red;\n}"],
-  "mappings": ";AAAA;AACI,oBAAkB;AACtB;",
+  "sourcesContent": ["*\n{\n    margin: 0;\n    padding: 0;\n}\n\nhtml,\nbody\n{\n    overflow: hidden;\n}\n\n.webgl\n{\n    position: fixed;\n    top: 0;\n    left: 0;\n    outline: none;\n}"],
+  "mappings": ";AAAA;AAEI,UAAQ;AACR,WAAS;AACb;AAEA;AACA;AAEI,YAAU;AACd;AAEA,CAAC;AAEG,YAAU;AACV,OAAK;AACL,QAAM;AACN,WAAS;AACb;",
   "names": []
 }
