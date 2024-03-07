@@ -52,7 +52,9 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.40.0"
+    "@finsweet/ts-utils": "^0.40.0",
+    "lil-gui": "^0.19.2",
+    "three": "^0.162.0"
   },
   "engines": {
     "pnpm": ">=8"
